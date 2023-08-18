@@ -2,7 +2,7 @@
 
 Hi there! I made this platforming game in PyGame, following a tutorial by DaFluffYPotato on YouTube. 
 
-Controls: /br
+Controls:
   - W = jump
   - A = move left
   - D = move right
