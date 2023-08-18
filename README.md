@@ -26,5 +26,6 @@ The game has music, sound effects, hit effects, projectiles, and basic physics.
 I'm hoping to build on this to make something of my own at some point, and hopefully expand!
 ---
 Thanks for reading :)
+---
 Conner
 ---
