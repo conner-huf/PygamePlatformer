@@ -22,7 +22,6 @@ There is also a level editor available for you to make your own level. You can s
 ---
 ![Screenshot 3](https://github.com/conner-huf/PygamePlatformer/assets/126115012/a4cc711f-2f7a-42cd-8040-ba57329e22eb)
 ---
----
 The game has music, sound effects, hit effects, projectiles, and basic physics.
 I'm hoping to build on this to make something of my own at some point, and hopefully expand!
 ---
