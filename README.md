@@ -1,6 +1,6 @@
 # PygamePlatformer
 
-Hi there! I made this platforming game in PyGame, following a tutorial by DaFluffYPotato on YouTube. 
+Hi there! I made this platforming game in PyGame. 
 
 Controls:
   - W = jump
@@ -11,7 +11,7 @@ Controls:
 Objective:
   - Dash through each enemy in the level to move on to the next level. There are 3 pre made levels to play through.
 
-This is my first foray into making a game - and therefore is very closely following a tutorial - so all credit to DaFluffyPotato on YouTube.
+This is my first foray into making a game.
 Below are some screenshots of the game.
   
 ![Screenshot 1](https://github.com/conner-huf/PygamePlatformer/assets/126115012/e97e1d4d-71db-4b3b-9293-b22c5d2c5cc7)
